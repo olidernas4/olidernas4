@@ -1,5 +1,15 @@
-# 💫 About Me:
-**Desarrollador de software** con sólida formación tecnológica y amplia experiencia en el análisis y desarrollo de sistemas de información. Con una trayectoria de éxitos en proyectos, me caracterizo por ser una persona altamente responsable, puntual y honesta, comprometida con la excelencia en los resultados.<br><br>Mi enfoque se basa en valores fundamentales como la responsabilidad, la adaptabilidad y la búsqueda constante de aprendizaje. Creo firmemente en la creatividad como motor de la innovación y considero que la capacidad para analizar y resolver problemas es esencial en el desarrollo de software.<br><br>Con habilidades técnicas sólidas y una capacidad probada para asumir proyectos de manera integral, me destaco en la creación de soluciones eficientes y efectivas. Mi enfoque proactivo y orientado a resultados me ha permitido contribuir significativamente al éxito de los proyectos en los que participo.
+# 💫 About Me
+Desarrollador de software con una sólida formación tecnológica y amplia experiencia en el análisis, diseño y desarrollo de sistemas de información. Me especializo en liderar proyectos de desarrollo web y automatización, integrando soluciones que aportan valor real a empresas y usuarios finales.
+
+Mi perfil combina habilidades técnicas con visión estratégica, permitiéndome asumir proyectos de manera integral: desde la planificación y coordinación hasta la implementación y entrega. He liderado y ejecutado exitosamente proyectos de eCommerce, integraciones de sistemas, y soluciones digitales orientadas a áreas clave como logística, mercadeo, y atención al cliente.
+
+Fui responsable de la creación e implementación del portal QST Ropa Urbana, desarrollando desde el diseño visual hasta las funcionalidades backend, integrando herramientas y flujos automatizados que mejoraron significativamente la eficiencia del negocio.
+
+Complemento mi experiencia técnica con estudios en marketing digital, lo cual me permite alinear las soluciones tecnológicas con los objetivos comerciales. También he trabajado como freelancer en diseño y desarrollo de sitios web, participando en conferencias y capacitaciones, especialmente enfocadas en mejorar la experiencia visual y funcional de páginas web.
+
+Mis valores se basan en la responsabilidad, la adaptabilidad, el aprendizaje continuo y una mentalidad creativa enfocada en la innovación. Me motiva resolver problemas complejos con soluciones simples y efectivas, siempre comprometido con la excelencia en los resultados.
+
+
 
 
 ## 🌐 Socials:
